@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "email": "fernando.futila@gmail.com",
+      "password": "$2a$10$yKQKO2xM4DP.SwYOkaxQcO8PcFoGrR1ot9Lk9gYqFvh2rFZ9.V.5S",
+      "id": 1
+    },
+    {
+      "email": "fernandofutila@gmail.com",
+      "password": "$2a$10$P.YB3GCeDWszALBiKN0DHezMRWIcL.TUgNBzWad4dBkCRhQZOGqNm",
+      "firstname": "Fernando",
+      "lastname": "Mendes",
+      "address": "Brasil, Brasil",
+      "phone": "96452349585",
+      "id": 2
+    }
+  ],
+  "bikes": [
+    {
+      "id": 1,
+      "cover": "https://brain-stage.wdscode.brooklynbridgebikerent.nyc/storage/media/products/product-8-OLPLR-1655846266.jpg",
+      "images": [
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e17fa6379cf855f14_brakes%20(1).jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfbf13da29eb506f9e7e3_handlebars.jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e31ad090f2622dae1_gears%20(1).jpg"
+      ],
+      "name": "Lunar Cicle",
+      "engine": "electrica",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 50,
+      "features": [
+        {
+          "title": "Corrent Loga e  Forte",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Travões Afinadissimos",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Volante Leve",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Banco confortavel",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cover": "https://brain-stage.wdscode.brooklynbridgebikerent.nyc/storage/media/products/product-8-OLPLR-1655846266.jpg",
+      "images": [
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e17fa6379cf855f14_brakes%20(1).jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfbf13da29eb506f9e7e3_handlebars.jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e31ad090f2622dae1_gears%20(1).jpg"
+      ],
+      "name": "Lunar Cicle",
+      "engine": "electrica",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 50,
+      "features": [
+        {
+          "title": "Corrent Loga e  Forte",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Travões Afinadissimos",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Volante Leve",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Banco confortavel",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cover": "https://brain-stage.wdscode.brooklynbridgebikerent.nyc/storage/media/products/product-8-OLPLR-1655846266.jpg",
+      "images": [
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e17fa6379cf855f14_brakes%20(1).jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfbf13da29eb506f9e7e3_handlebars.jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e31ad090f2622dae1_gears%20(1).jpg"
+      ],
+      "name": "Lunar Cicle",
+      "engine": "electrica",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 50,
+      "features": [
+        {
+          "title": "Corrent Loga e  Forte",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Travões Afinadissimos",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Volante Leve",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Banco confortavel",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cover": "https://brain-stage.wdscode.brooklynbridgebikerent.nyc/storage/media/products/product-8-OLPLR-1655846266.jpg",
+      "images": [
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e17fa6379cf855f14_brakes%20(1).jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfbf13da29eb506f9e7e3_handlebars.jpg",
+        "https://uploads-ssl.webflow.com/60a4fe8fd5377155a58ce221/62ecfa8e31ad090f2622dae1_gears%20(1).jpg"
+      ],
+      "name": "Lunar Cicle",
+      "engine": "electrica",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 50,
+      "features": [
+        {
+          "title": "Corrent Loga e  Forte",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Travões Afinadissimos",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Volante Leve",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+          "title": "Banco confortavel",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+      ]
+    }
+  ]
+}
